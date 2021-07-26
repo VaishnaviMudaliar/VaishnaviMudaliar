@@ -4,7 +4,7 @@
 
 
 
-### Well Hi I am Vaishnavi👋
+### Well Hi , I am Vaishnavi👋
 
 - 🔭 I’m currently working on  some aesthetic projects
 - 🌱 I’m currently learning react and angular
