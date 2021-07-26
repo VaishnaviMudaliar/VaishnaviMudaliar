@@ -10,14 +10,8 @@
 
 - 🤔 I’m looking for help with finding cool stuff to learn from
 
+- ⚡ Fun fact: I use SHIFT key for uppercase instead of CAPS LOCK 🙃
 
-
-
-<!--- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -64,7 +58,8 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>  <br/>
+
 
 
 ## Connect with me  
@@ -81,7 +76,7 @@
 </div>  
   
 
-<br/>  
+<br/>  <br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -103,7 +98,7 @@
 <img src="https://komarev.com/ghpvc/?username=VaishnaviMudaliar&&style=flat-square" align="center" />
 </div>  
 
-
+<br/><br/>
 ## Quote that defines me the best  
 <br/>
                      " Be yourself , but always your better self 🙂 "   by
