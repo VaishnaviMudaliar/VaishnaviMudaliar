@@ -1,4 +1,4 @@
-<img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/ezgif.com-gif-maker.gif" alt="banner that says Frontend developer" >
+<img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/ezgif.com-gif-maker.png" alt="banner that says Frontend developer" align = "center">
 
 
 
