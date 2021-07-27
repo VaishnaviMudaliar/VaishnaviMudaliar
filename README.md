@@ -94,14 +94,18 @@
 <br/>
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VaishnaviMudaliar&&style=flat-square" align="center" />
-</div>  
 
 <br/><br/>
 ## Quote that defines me the best  
 <br/>
                      " Be yourself , but always your better self 🙂 "   by
                                                              -KARL.C.MAESER
+<br/>
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=VaishnaviMudaliar&&style=flat-square" align="center" />
+</div>  
+
   
 
