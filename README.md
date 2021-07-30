@@ -84,15 +84,15 @@
 <br/>  
 
 <br/>
-<br/>
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8hbn6nu7rsu8qgrtvjr573qj7&cover_image=true&theme=default" /></div>  
 
-<br/>  
-<br/>
-<br/>
+
+
+
+
+
+
 
 
 <br/><br/>
