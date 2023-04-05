@@ -13,8 +13,6 @@
 - ⚡ Fun fact: I use SHIFT key for uppercase instead of CAPS LOCK 🙃
 
 
-
-
 <br/>
   <br/>
   <br/>
