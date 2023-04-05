@@ -1,10 +1,10 @@
 ### Well Hi , I am Vaishnavi👋
 
-<img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/ezgif.com-gif-maker.png" alt="banner that says Frontend developer" align = "center">
+
 
 - 🔭 I’m currently working on  some aesthetic projects
 
-- 🌱 I’m currently learning react and angular
+- 🌱 I’m currently learning artificial intelligence
  
 - 👯 Frontend projects? Count me in :)
 
