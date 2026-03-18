@@ -1,7 +1,7 @@
 import requests
 import re
 
-ORCID_ID = "YOUR_ORCID_ID"
+ORCID_ID = "0009-0000-1697-1424"
 URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
 
 headers = {
