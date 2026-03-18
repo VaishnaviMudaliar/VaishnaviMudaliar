@@ -37,7 +37,13 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 <img src="https://img.shields.io/badge/ORCID-Vaishnavi_Mudaliar-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
-> **Recent Highlight:** *Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations* 
+### 📝 Latest Publications
+<!-- PUBLICATIONS:START -->
+- Loading latest publications from ORCID...
+<!-- PUBLICATIONS:END -->
+
+> **Recent Highlight:** *Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations*
+
 
 ## 📊 My GitHub Metrics
 <p align="left">
