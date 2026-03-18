@@ -2,72 +2,68 @@ import requests
 import re
 
 ORCID_ID = "0009-0000-1697-1424"
-URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
+BASE_URL = "https://pub.orcid.org/v3.0"
 
 headers = {
     "Accept": "application/json"
 }
 
-response = requests.get(URL, headers=headers)
-data = response.json()
-
-works = data.get("group", [])
+works_data = requests.get(f"{BASE_URL}/{ORCID_ID}/works", headers=headers).json()
 
 publications = []
 
-def format_authors(summary):
-    # ORCID public API usually doesn't give full author list reliably
-    # So we fallback to "Author(s) unavailable" unless expanded later
-    return "Author(s)"
+for group in works_data.get("group", []):
+    summary = group["work-summary"][0]
 
-for work in works:
-    summary = work["work-summary"][0]
+    put_code = summary["put-code"]
 
-    title = summary["title"]["title"]["value"]
+    work_detail = requests.get(
+        f"{BASE_URL}/{ORCID_ID}/work/{put_code}",
+        headers=headers
+    ).json()
 
-    year = summary.get("publication-date", {}).get("year", {}).get("value", "N/A")
+    title = work_detail.get("title", {}).get("title", {}).get("value", "No title")
 
-    journal = summary.get("journal-title", {}).get("value", "")
+    year = work_detail.get("publication-date", {}).get("year", {}).get("value", "N/A")
 
-    # Extract DOI if available
+    journal = work_detail.get("journal-title", {}).get("value", "")
+
+    # DOI
     doi = None
-    external_ids = summary.get("external-ids", {}).get("external-id", [])
+    external_ids = work_detail.get("external-ids", {}).get("external-id", [])
     for ext in external_ids:
         if ext.get("external-id-type") == "doi":
             doi = ext.get("external-id-value")
 
     doi_link = f"https://doi.org/{doi}" if doi else None
 
-    # IEEE-style-ish formatting
-    citation = f"- {format_authors(summary)}, \"{title},\" *{journal}*, {year}."
-    
+    # Clean citation
+    citation = f"- \"{title},\" *{journal}*, {year}."
+
     if doi_link:
-        citation += f" [DOI]({doi_link})"
+        citation += f" [Read Paper]({doi_link})"
 
     publications.append((year, citation))
 
 # Sort newest first
 publications.sort(reverse=True, key=lambda x: x[0] if x[0] != "N/A" else "0")
 
-# Extract formatted lines
-formatted_pubs = [pub[1] for pub in publications[:10]]  # limit to 10
+formatted_pubs = [pub[1] for pub in publications[:10]]
 
-# Read README
+# Replace README section
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-# Replace between markers
-updated_content = re.sub(
+updated = re.sub(
     r"<!-- PUBLICATIONS:START -->(.*?)<!-- PUBLICATIONS:END -->",
     "<!-- PUBLICATIONS:START -->\n"
-    + "\n".join(formatted_pubs) +
-    "\n<!-- PUBLICATIONS:END -->",
+    + "\n".join(formatted_pubs)
+    + "\n<!-- PUBLICATIONS:END -->",
     content,
     flags=re.DOTALL
 )
 
-# Write back
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated_content)
+    f.write(updated)
 
-print("✅ Publications updated successfully.")
+print("✅ Publications updated (no authors).")
