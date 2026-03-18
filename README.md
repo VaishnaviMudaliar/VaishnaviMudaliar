@@ -39,11 +39,11 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 
 ### 📝 Latest Publications
 <!-- PUBLICATIONS:START -->
-- Author(s), "Hardware Acceleration of K-Means Clustering Algorithm," *Lecture Notes in Networks and Systems*, 2026. [DOI](https://doi.org/10.1007/978-3-032-06677-0_47)
-- Author(s), "A novel accelerated sparse Support Vector Machine (AS-SVM) algorithm for binary classification of DNA sequences," *Franklin Open*, 2025. [DOI](https://doi.org/10.1016/j.fraope.2025.100427)
-- Author(s), "Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations," *2025 IEEE Recent Advances in Intelligent Computational Systems (RAICS)*, 2025. [DOI](https://doi.org/10.1109/raics66191.2025.11332583)
-- Author(s), "Implementation of Banded Smith-Waterman Sequence Alignment Algorithm on CPU and FPGA," *Research Square*, 2024. [DOI](https://doi.org/10.21203/rs.3.rs-4627486/v1)
-- Author(s), "Improved ECG Lead Detection and Classification using YOLOv8," *2024 8th International Conference on Computing Communication Control and Automation Iccubea 2024*, 2024. [DOI](https://doi.org/10.1109/ICCUBEA61740.2024.10774936)
+- "Hardware Acceleration of K-Means Clustering Algorithm," *Lecture Notes in Networks and Systems*, 2026. [Read Paper](https://doi.org/10.1007/978-3-032-06677-0_47)
+- "A novel accelerated sparse Support Vector Machine (AS-SVM) algorithm for binary classification of DNA sequences," *Franklin Open*, 2025. [Read Paper](https://doi.org/10.1016/j.fraope.2025.100427)
+- "Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations," *2025 IEEE Recent Advances in Intelligent Computational Systems (RAICS)*, 2025. [Read Paper](https://doi.org/10.1109/raics66191.2025.11332583)
+- "Implementation of Banded Smith-Waterman Sequence Alignment Algorithm on CPU and FPGA," *Research Square*, 2024. [Read Paper](https://doi.org/10.21203/rs.3.rs-4627486/v1)
+- "Improved ECG Lead Detection and Classification using YOLOv8," *2024 8th International Conference on Computing Communication Control and Automation Iccubea 2024*, 2024. [Read Paper](https://doi.org/10.1109/ICCUBEA61740.2024.10774936)
 <!-- PUBLICATIONS:END -->
 
 > **Recent Highlight:** *Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations*
