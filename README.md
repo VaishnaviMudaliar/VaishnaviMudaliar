@@ -1,16 +1,12 @@
-### Well Hi , I am Vaishnavi👋
+<p align="center">
+  <img src="https://github.com/VaishnaviMudaliar/[YOUR_USERNAME]/blob/main/banner.png?raw=true" alt="Vaishnavi Mudaliar Research Banner" width="100%">
+</p>
 
+# 🛰️ Vaishnavi Mudaliar
+### Junior Research Fellow | C2S (Chips to Startup) Program
+**FPGA Architect • AI Acceleration Researcher • VLSI Design Specialist**
 
-
-- 🔭 I’m currently working on  some aesthetic projects
-
-- 🌱 I’m currently learning artificial intelligence
- 
-- 👯 Frontend projects? Count me in :)
-
-- 🤔 I’m looking for help with finding cool stuff to learn from
-
-- ⚡ Fun fact: I use SHIFT key for uppercase instead of CAPS LOCK 🙃
+---
 
 
 <br/>
