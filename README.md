@@ -3,9 +3,15 @@
 </p>
 
 # 🛰️ Vaishnavi Mudaliar
-### Junior Research Fellow | C2S (Chips to Startup) Program
+### Junior Research Fellow @ MeitY C2S | Hardware-Aware AI & FPGA Systems Researcher
 **Hardware-Aware AI • Deep Learning Architect • VLSI Design Specialist**
 
+
+---
+### 🔍 Research Focus
+- FPGA-accelerated Machine Learning for Genomics  
+- Hardware-Software Co-design for Edge AI  
+- Efficient Architectures for Sequence Alignment & Basecalling
 ---
 ## 🔬 About My Research
 I am a **Junior Research Fellow** under the **Ministry of Electronics and Information Technology (MeitY)** C2S initiative. My research is centered on the intersection of **Machine Learning** and **Genomics**, specifically focusing on the indigenous development of high-performance, energy-efficient hardware for life sciences.
@@ -38,6 +44,7 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 </a>
 
 ### 📝 Latest Publications
+📄 5+ Publications | IEEE • Springer • Elsevier
 <!-- PUBLICATIONS:START -->
 - "Hardware Acceleration of K-Means Clustering Algorithm," *Lecture Notes in Networks and Systems*, 2026. [Read Paper](https://doi.org/10.1007/978-3-032-06677-0_47)
 - "A novel accelerated sparse Support Vector Machine (AS-SVM) algorithm for binary classification of DNA sequences," *Franklin Open*, 2025. [Read Paper](https://doi.org/10.1016/j.fraope.2025.100427)
@@ -46,28 +53,43 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 - "Improved ECG Lead Detection and Classification using YOLOv8," *2024 8th International Conference on Computing Communication Control and Automation Iccubea 2024*, 2024. [Read Paper](https://doi.org/10.1109/ICCUBEA61740.2024.10774936)
 <!-- PUBLICATIONS:END -->
 
-> **Recent Highlight:** *Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations*
+### 🌟 Featured Work
+**Optimization of Sigmoid Activation Function on FPGA**  
+📍 IEEE RAICS 2025  
+🔗 https://doi.org/10.1109/raics66191.2025.11332583
+
+**A novel accelerated sparse Support Vector Machine (AS-SVM) algorithm for binary classification of DNA sequences**          
+📍 Franklin Open 2025  
+🔗 https://doi.org/10.1016/j.fraope.2025.100427
 
 
-## 📊 My GitHub Metrics
+
+## 📊 GitHub Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMudaliar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=VaishnaviMudaliar&theme=tokyonight&hide_border=true" height="150"/>
   
 </p>
 
 ---
 
+## 🔄 Currently Working On
+- FPGA acceleration of sequence alignment algorithms  
+- Transformer optimization for genomic data  
+- Hardware-aware ML model compression
+---
+
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vaishnavi-mudaliar-20626a157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vaishnavi.mudaliar@cumminscollege.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR_GOOGLE_SCHOLAR_LINK]"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=kCX0XiEAAAAJ&hl=en&authuser=2"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <i>"Optimizing at the intersection of Silicon and Intelligence."</i>
+  <i>""Designing efficient intelligence at the hardware level.""</i>
 </p>
 
 
