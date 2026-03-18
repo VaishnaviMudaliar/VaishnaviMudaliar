@@ -15,7 +15,7 @@ jobs:
       - name: Pull ORCID Data
         uses: svay/orcid-profile@main
         with:
-          orcid-id: '0009-0000-1697-1424' # Replace with your ID (e.g., 0000-0002-XXXX-XXXX)
+          orcid-id: '0009-0000-1697-1424' # 🚨 Replace with your ID (e.g., 0000-0002-XXXX-XXXX)
           
       - name: Commit changes
         run: |
