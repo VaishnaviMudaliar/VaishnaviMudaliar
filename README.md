@@ -30,14 +30,14 @@ I am a **Junior Research Fellow** under the **Ministry of Electronics and Inform
 
 
 
-## 📚 Publications & Academic Work
-*Since my industrial/C2S project RTL is proprietary, I showcase my validated research through publications.*
+## 📚 Publications
+I maintain a live record of my peer-reviewed research and conference proceedings on ORCID.
 
-* **[Title of Your Paper/Thesis]** | *[Journal/Conference Name, 202X]*
-    > Brief highlight: Investigated the impact of [X] on FPGA resource utilization.
-* **[Title of Another Paper]** | *[Journal/Conference Name, 202X]*
+<a href="https://orcid.org/[YOUR_ORCID_ID]">
+<img src="https://img.shields.io/badge/ORCID-Vaishnavi_Mudaliar-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
 
----
+> **Recent Highlight:** *Optimization of Sigmoid Activation Function on FPGA: An Analysis of Linear Interpolation with Fixed-Point Representations* 
 
 ## 📊 My GitHub Metrics
 <p align="left">
@@ -50,7 +50,7 @@ I am a **Junior Research Fellow** under the **Ministry of Electronics and Inform
 ## 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vaishnavi.mudaliar@cumminscollege.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[YOUR_GOOGLE_SCHOLAR_LINK]"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
