@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VaishnaviMudaliar/[YOUR_USERNAME]/blob/main/banner.png?raw=true" alt="Vaishnavi Mudaliar Research Banner" width="100%">
+  <img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/github_profile_banner.png" alt="Vaishnavi Mudaliar Research Banner" width="100%">
 </p>
 
 # 🛰️ Vaishnavi Mudaliar
