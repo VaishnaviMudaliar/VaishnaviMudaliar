@@ -1,0 +1,33 @@
+name: Update Publications from ORCID
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # weekly (Sunday midnight)
+  workflow_dispatch:      # manual trigger
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch ORCID publications
+        run: python fetch_orcid.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add PUBLICATIONS.md
+          git commit -m "Update publications from ORCID" || echo "No changes"
+          git push
