@@ -4,71 +4,60 @@
 
 # 🛰️ Vaishnavi Mudaliar
 ### Junior Research Fellow | C2S (Chips to Startup) Program
-**FPGA Architect • AI Acceleration Researcher • VLSI Design Specialist**
+**Hardware-Aware AI • Deep Learning Architect • VLSI Design Specialist**
+
+---
+## 🔬 About My Research
+I am a **Junior Research Fellow** under the **Ministry of Electronics and Information Technology (MeitY)** C2S initiative. My research is centered on the intersection of **Machine Learning** and **Genomics**, specifically focusing on the indigenous development of high-performance, energy-efficient hardware for life sciences.
+
+* **Project Title:** *Implementation of ML Based DNA Sequencing Hardware Accelerator using FPGA.*
+* **The Problem:** Modern DNA sequencing generates massive datasets that overwhelm traditional CPUs. My work involves designing custom silicon architectures to accelerate base-calling and alignment using ML.
+* **Methodology:** I utilize **Hardware-Software Co-design** to optimize Deep Learning models (such as RNNs or Transformers) for real-time genomic data processing on Edge-FPGA platforms.
+* **Goal:** To deliver a high-throughput, low-power solution that contributes to the **"Atmanirbhar Bharat"** mission in the semiconductor and biotech domains.
+---
+
+## 🛠️ Technical Toolkit
+
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Hardware Description** | Verilog, SystemVerilog, VHDL, HLS (C/C++) |
+| **FPGA Platforms** | Xilinx Zynq-7000, UltraScale+, PYNQ Framework |
+| **EDA Tools** | Xilinx Vivado, Vitis, ModelSim, Quartus |
+| **AI Frameworks** | PyTorch, TensorFlow, ONNX, Model Quantization/Pruning |
+| **Languages** | Python (C++ for HLS), TCL (Scripting), MATLAB |
 
 ---
 
 
-<br/>
-  <br/>
-  <br/>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 📚 Publications & Academic Work
+*Since my industrial/C2S project RTL is proprietary, I showcase my validated research through publications.*
 
+* **[Title of Your Paper/Thesis]** | *[Journal/Conference Name, 202X]*
+    > Brief highlight: Investigated the impact of [X] on FPGA resource utilization.
+* **[Title of Another Paper]** | *[Journal/Conference Name, 202X]*
 
+---
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-</div>
+## 📊 My GitHub Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMudaliar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[YOUR_GOOGLE_SCHOLAR_LINK]"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+</p>
 
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-</table>  
-
-<br/>  <br/>
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/VaishnaviMudaliar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/VaishnaviMudal1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/vaishnavi_mudaliar_13" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  <br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>
+---
+<p align="center">
+  <i>"Optimizing at the intersection of Silicon and Intelligence."</i>
+</p>
 
 
 
@@ -80,12 +69,6 @@
 
 
 
-<br/><br/>
-## Quote that defines me the best  
-<br/>
-                     " Be yourself , but always your better self 🙂 "   by
-                                                             -KARL.C.MAESER
-<br/>
 <br/>
 
 <div align="center">
