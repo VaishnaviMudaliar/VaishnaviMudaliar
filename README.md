@@ -65,14 +65,17 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 
 
 ## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMudaliar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=VaishnaviMudaliar&theme=tokyonight&hide_border=true" height="150"/>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaishnaviMudaliar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=VaishnaviMudaliar&theme=tokyonight&hide_border=true"/>
   
 </p>
 
----
+<p align="center">
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaishnaviMudaliar&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+</p>
 
 ## 🔄 Currently Working On
 - FPGA acceleration of sequence alignment algorithms  
