@@ -3,7 +3,7 @@
 </p>
 
 # 🛰️ Vaishnavi Mudaliar
-### Junior Research Fellow @ MeitY C2S | Hardware-Aware AI & FPGA Systems Researcher
+### Senior Research Fellow @ MeitY C2S | Hardware-Aware AI & FPGA Systems Researcher
 **Hardware-Aware AI • Deep Learning Architect • VLSI Design Specialist**
 
 
@@ -28,12 +28,14 @@ JRF (2024–2026) ➜ ⭐ SRF (2026–Present)
 
 ---
 ### 🔍 Research Focus
-- FPGA-accelerated Machine Learning for Genomics  
-- Hardware-Software Co-design for Edge AI  
-- Efficient Architectures for Sequence Alignment & Basecalling
+- FPGA-accelerated machine learning systems
+- Deep learning applications in genomics
+- Hardware-software co-design for AI workloads
+- Energy-efficient AI and VLSI architectures
 ---
 ## 🔬 About My Research
-I am a **Junior Research Fellow** under the **Ministry of Electronics and Information Technology (MeitY)** C2S initiative. My research is centered on the intersection of **Machine Learning** and **Genomics**, specifically focusing on the indigenous development of high-performance, energy-efficient hardware for life sciences.
+
+Currently serving as a **Senior Research Fellow (SRF)** under the **MeitY C2S (Chips to Startup) Program**, where I work on advancing indigenous AI hardware and computational genomics solutions.
 
 * **Project Title:** *Implementation of ML Based DNA Sequencing Hardware Accelerator using FPGA.*
 * **The Problem:** Modern DNA sequencing generates massive datasets that overwhelm traditional CPUs. My work involves designing custom silicon architectures to accelerate base-calling and alignment using ML.
