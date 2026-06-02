@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/SRF_banner.png" alt="Vaishnavi Mudaliar Research Banner" width="100%">
+  <img src="https://github.com/VaishnaviMudaliar/VaishnaviMudaliar/blob/main/SRF.png" alt="Vaishnavi Mudaliar Research Banner" width="100%">
 </p>
 
 # 🛰️ Vaishnavi Mudaliar
