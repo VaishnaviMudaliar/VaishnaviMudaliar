@@ -4,7 +4,7 @@
 
 # 🛰️ Vaishnavi Mudaliar
 ### Senior Research Fellow @ MeitY C2S | Hardware-Aware AI & FPGA Systems Researcher
-**Hardware-Aware AI • Deep Learning Architect • VLSI Design Specialist**
+**Hardware-Aware AI • FPGA Acceleration • Computational Genomics • VLSI Systems**
 
 
 ---
