@@ -62,7 +62,7 @@ Currently serving as a **Senior Research Fellow (SRF)** under the **MeitY C2S (C
 ## 📚 Publications
 I maintain a live record of my peer-reviewed research and conference proceedings on ORCID.
 
-<a href="https://orcid.org/[YOUR_ORCID_ID]">
+<a href="https://orcid.org/0009-0000-1697-1424">
 <img src="https://img.shields.io/badge/ORCID-Vaishnavi_Mudaliar-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
