@@ -8,20 +8,20 @@
 
 
 ---
-## 🚀 Current Role
+🎉 Promoted to Senior Research Fellow (SRF) – June 2026
 
-⭐ Senior Research Fellow (SRF)
-📍 C2S (Chips to Startup) Program
+---
 
-Specializing in:
-- FPGA-Based AI Acceleration
-- RTL Design & Verification
-- Hardware-Software Co-Design
-- Deep Learning Deployment on FPGAs
 
-### Career Progression
+## Experience Timeline
 
-JRF (2024–2026) ➜ ⭐ SRF (2026–Present)
+| Position | Duration | Focus |
+|---|---|---|
+|⭐ Senior Research Fellow (SRF) | Jun 2026 – Present | AI Systems, FPGA Acceleration, Multimodal Learning |
+| Junior Research Fellow (JRF) | 2024 – May 2026 | Embedded AI, Sensor Fusion, RTL Development |
+
+
+
 
 
 
@@ -114,6 +114,8 @@ I maintain a live record of my peer-reviewed research and conference proceedings
 </p>
 
 ---
+
+
 <p align="center">
   <i>""Designing efficient intelligence at the hardware level.""</i>
 </p>
