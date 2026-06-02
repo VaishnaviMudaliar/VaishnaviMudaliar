@@ -8,6 +8,25 @@
 
 
 ---
+## 🚀 Current Role
+
+⭐ Senior Research Fellow (SRF)
+📍 C2S (Chips to Startup) Program
+
+Specializing in:
+- FPGA-Based AI Acceleration
+- RTL Design & Verification
+- Hardware-Software Co-Design
+- Deep Learning Deployment on FPGAs
+
+### Career Progression
+
+JRF (2024–2026) ➜ ⭐ SRF (2026–Present)
+
+
+
+
+---
 ### 🔍 Research Focus
 - FPGA-accelerated Machine Learning for Genomics  
 - Hardware-Software Co-design for Edge AI  
@@ -33,6 +52,8 @@ I am a **Junior Research Fellow** under the **Ministry of Electronics and Inform
 | **Languages** | Python (C++ for HLS), TCL (Scripting), MATLAB |
 
 ---
+
+
 
 
 
